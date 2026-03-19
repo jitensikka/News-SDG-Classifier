@@ -12,6 +12,6 @@ This project is a Machine Learning-based system that classifies news articles in
 - Scikit-learn
 
 ## How to Run
-pip install -r requirements.txt
-python train.py
-python app.py
+- pip install -r requirements.txt
+- python train.py
+- python app.py
